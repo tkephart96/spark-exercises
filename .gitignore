@@ -133,3 +133,6 @@ dmypy.json
 *.csv
 *.txt
 *.sqlite
+*.json
+*.crc
+_SUCCESS
